@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 I'm a full stack analyst <br>💻Experience in Python, SQL, PySpark, Power BI<br>☁️Experience in Azure Data Factory, Azure Synapse<br>💼I'm currently working for important customers of electricity market in Colombia<br>🎓Continous self-learning to improve my skills. 
+📊 I'm a Data Engineer <br>💻Experience in Python, SQL, PySpark, Power BI<br>☁️Experience in Azure Data Factory, Azure Synapse<br>💼I'm currently working for important customers of electricity market in Colombia<br>🎓Continous self-learning to improve my skills. 
 
 
 ## 🌐 Socials:
